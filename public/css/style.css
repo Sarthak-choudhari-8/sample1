@@ -1,0 +1,21 @@
+
+body{
+    overflow-y: scroll;
+}
+
+.contact-footer {
+    border-top: 1px solid rgba(245, 245, 245, 0.164);
+position: relative;
+bottom: 0px;
+    height: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+   
+}
+
+.alert{
+    margin-top: 20px;
+}
